@@ -1,0 +1,1 @@
+this is the general file where we can write the basic idea about this program and the basic idea
